@@ -21,7 +21,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +45,11 @@
     ]
   },
   "devDependencies": {
-    "react-router-dom": "^6.28.0"
+    "react-router-dom": "^6.28.0",
+    "gh-pages": "^2.0.1"
+  },
+  "homepage": {
+    "https://ashishpaudel123.github.io/second-class/"
   }
+
 }
