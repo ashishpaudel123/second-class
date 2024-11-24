@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/second-class/static/css/main.23b76f5f.css",
-    "main.js": "/second-class/static/js/main.62e3d580.js",
-    "static/js/453.ca948485.chunk.js": "/second-class/static/js/453.ca948485.chunk.js",
-    "static/media/home-bg.jpg": "/second-class/static/media/home-bg.3ab47da4e31de3b07291.jpg",
-    "index.html": "/second-class/index.html",
-    "main.23b76f5f.css.map": "/second-class/static/css/main.23b76f5f.css.map",
-    "main.62e3d580.js.map": "/second-class/static/js/main.62e3d580.js.map",
-    "453.ca948485.chunk.js.map": "/second-class/static/js/453.ca948485.chunk.js.map"
+    "main.css": "/ashishpaudel123/second-class/static/css/main.6a48b16c.css",
+    "main.js": "/ashishpaudel123/second-class/static/js/main.a54239d3.js",
+    "static/js/453.ca948485.chunk.js": "/ashishpaudel123/second-class/static/js/453.ca948485.chunk.js",
+    "static/media/home-bg.jpg": "/ashishpaudel123/second-class/static/media/home-bg.3ab47da4e31de3b07291.jpg",
+    "index.html": "/ashishpaudel123/second-class/index.html",
+    "main.6a48b16c.css.map": "/ashishpaudel123/second-class/static/css/main.6a48b16c.css.map",
+    "main.a54239d3.js.map": "/ashishpaudel123/second-class/static/js/main.a54239d3.js.map",
+    "453.ca948485.chunk.js.map": "/ashishpaudel123/second-class/static/js/453.ca948485.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23b76f5f.css",
-    "static/js/main.62e3d580.js"
+    "static/css/main.6a48b16c.css",
+    "static/js/main.a54239d3.js"
   ]
 }
